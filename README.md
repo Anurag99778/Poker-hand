@@ -1,7 +1,10 @@
-Poker Hand Detection System
+# Poker Hand Detection System
 
 ## Overview
 This project is designed to detect the rank and suit of playing cards in images using a YOLO (You Only Look Once) model. By training the model with images from Roboflow Universe, it can accurately recognize various card types such as Royal Flush, Flush, or Straight when presented with a set of five cards. Additionally, an algorithm has been developed to determine the type of poker hand formed by these cards.
+
+## Demo 
+[![Poker Hand Detection Video](https://img.youtube.com/vi/HND97fVF6vY/0.jpg)](https://youtu.be/HND97fVF6vY?si=xHFOQl2gFRdiotCv)
 
 ## Installation
 
